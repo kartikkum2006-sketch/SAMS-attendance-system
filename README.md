@@ -3,7 +3,7 @@
 Python + SQLite application to register students/courses, mark attendance and
 generate reports with a shortage flag (below 75%).
 
-## Run
+## python test_attendance.py
     python demo.py              # sample report
     python tests/test_attendance.py   # unit tests
 
